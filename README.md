@@ -9,3 +9,6 @@
 * fairies
 * leprechauns
 * gold cauldrons
+* evil spirits
+* wild hunt
+* thunderstorm
